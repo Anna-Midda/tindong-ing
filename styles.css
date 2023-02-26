@@ -49,3 +49,79 @@ Span * {color:white}
     width: 60%;
     transform: rotate(25deg)
 }
+
+#features {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin: 8rem 12rem
+}
+.f-h3 {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.f-p { 
+    color: #8f8f8f;
+    padding: 0 15% 0 15%;
+}
+.fa-circle-check {
+    color : #ef8172;
+    font-size: 3.5rem;
+    padding-bottom: 1rem;
+}
+.fa-circle-dot  {
+    color : #ef8172;
+    font-size: 3.5rem;
+    padding-bottom: 1rem;
+}
+.fa-heart  {
+    color : #ef8172;
+    font-size: 3.5rem;
+    padding-bottom: 1rem;
+}
+
+.fa-circle-check:hover {
+    color: #ff4c68;
+}
+
+.fa-circle-dot:hover {
+    color: #ff4c68;
+}
+.fa-heart:hover {
+    color: #ff4c68;
+}
+.col-lg-4 {
+    display: block;
+}
+
+#testimonials {
+    background-color: #ef8172;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    line-height: 1.5;
+}
+.testimonial-image {
+    width: 13%;
+    border-radius: 50%;
+    margin: 3%;
+}
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding: 3% 15% 3%;
+}
+
+.logo {
+    width: 20%;
+    margin: 4% 0% 3% 4%;
+}
+
+.carousel-control{
+    margin: 3% 10%;
+    display: inline-block;
+}
+
+.carousel-item {
+    font-family: 'Montserrat', sans-serif;
+
+}
